@@ -27,3 +27,8 @@ To run the tests with **autocannon** execute command:
 
 `node test.js`
 
+Test with Postman
+
+
+<img width="941" alt="Screenshot 2022-11-08 122759" src="https://user-images.githubusercontent.com/81529705/201786706-618bce94-e841-4aeb-b299-8432a93cdc65.png">
+<img width="941" alt="Screenshot 2022-11-08 122759" src="https://user-images.githubusercontent.com/81529705/201786844-38f8cba8-7fb0-4de3-be8a-77a53d06f852.png">
